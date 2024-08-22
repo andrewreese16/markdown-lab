@@ -1,5 +1,6 @@
 # How to create a file using the Terminal
 ![mac CLI](https://images.unsplash.com/photo-1493020258366-be3ead1b3027?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29tcHV0ZXIlMjB0ZXJtaW5hbHxlbnwwfHwwfHx8MA%3D%3D)
+
 On a Mac to open your terminal you can use the spotlight search and search *terminal*.
 
 ## To create the directory
